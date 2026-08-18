@@ -1,23 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&sectio
-n=header&text=YOUR%20NAME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=YOUR%20ROLE%20%7C%20YOUR%
-20ROLE%20%7C%20YOUR%20ROLE&descAlignY=58&descSize=18"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&widt
-h=650&lines=Building+amazing+projects;Learning+new+technologies;Exploring+Artificial+Intelligence;Turning+ideas+into
-+real+projects" alt="Typing SVG" />
-<br/><br/>
-<img src="https://img.shields.io/badge/EDUCATION-Your%20Degree-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-Your%20Focus-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BASED%20IN-Your%20Country-4C1D95?style=for-the-badge"/>
-<br/><br/>
-<a href="https://www.linkedin.com/in/mouneesh-kandhasamy/"> <img
-src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="mailto:mouneesh.kandhasamy@gmail.com"> <img
-src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://github.com/MouneeshK890-ce/MouneeshK890-ce/"> <img
-src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-</div>
----
+## Hi, It's me Mouneesh
 
 Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**  
 
