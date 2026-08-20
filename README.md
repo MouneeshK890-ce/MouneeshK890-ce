@@ -30,21 +30,24 @@
 
 ---
 
+## About
 Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**  
 
-🎓 B.Sc. Microbiology graduate transitioning into frontend development  
+🎯 **Frontend Developer** specializing in **React, TypeScript, JavaScript, and Redux Toolkit**
 
-💻 Learning and building projects with **JavaScript, React, TypeScript, and Tailwind CSS**  
+🚀 Building and deploying **responsive, user-focused web applications** with modern frontend technologies
 
-🚀 Passionate about creating **clean, responsive, and user-friendly** web applications  
+🧩 Hands-on experience with **REST APIs, state management, reusable components, form validation, authentication, protected routes, and persistent client-side state**
 
-🔍 Strong interest in **UI/UX, state management, and API integration**  
+💻 I learn by **building real projects** — turning ideas into working applications and solving problems along the way
 
-🧠 Self-driven learner who enjoys turning ideas into real working projects  
+🎓 **B.Sc. Microbiology graduate** who transitioned into frontend development through self-driven learning and hands-on project development
 
-🤝 Open to internships and entry-level opportunities to **learn, collaborate, and grow**  
+📚 Currently deepening my expertise in **React, TypeScript, JavaScript fundamentals, Next.js, and frontend best practices**
 
-📚 Currently improving my skills in **Next.js, Node.js and Express.js basics, and best practices**  
+🤝 **Open to Entry-Level Frontend Developer / React Developer opportunities**
+
+---
 
 ## TECH STACK
 <p align="start">
