@@ -46,7 +46,7 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
 
 📚 Currently improving my skills in **Next.js, Node.js and Express.js basics, and best practices**  
 
-# Tech Stack:
+## Tech Stack:
 <p align="start">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,vite,git,github,postman,npm,firebase&perline=7" />
 </p>
