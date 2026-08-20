@@ -94,19 +94,9 @@ My degree is in Microbiology, but my professional direction is now firmly focuse
 ## LET'S CONNECT
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/mouneesh-kandhasamy">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
-</a>
-
-<a href="https://mouneesh-portfolio.web.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-Explore-0B1120?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" />
-</a>
-
-<a href="mailto:mouneesh.kandhasamy@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact-0B1120?style=for-the-badge&logo=gmail&logoColor=F87171" />
-</a>
-
+<a href="https://www.linkedin.com/in/mouneesh-kandhasamy"><img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://mouneesh-portfolio.web.app"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-0891B2?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:mouneesh.kandhasamy@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-BE123C?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"></a>
 </p>
 
 <p align="center">
