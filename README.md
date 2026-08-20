@@ -56,8 +56,6 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
 
 ##  GITHUB COMMAND CENTER
 
-## ◈ 07 — GITHUB COMMAND CENTER
-
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MouneeshK890-ce&theme=tokyonight"
@@ -66,19 +64,6 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MouneeshK890-ce&theme=tokyonight"
-    height="180"
-    alt="Repositories by language"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MouneeshK890-ce&theme=tokyonight"
-    height="180"
-    alt="Most used commit languages"
-  />
-</p>
 ---
 
 
