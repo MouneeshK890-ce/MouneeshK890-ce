@@ -1,7 +1,8 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:0f172a,70:172554,100:0c4a6e&text=MOUNEESH%20KANDHASAMY&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20REACT.JS%20%E2%80%A2%20TYPESCRIPT%20%E2%80%A2%20REDUX%20TOOLKIT&descAlignY=60&descSize=15&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:06B6D4,25:0EA5E9,50:2563EB,75:4F46E5,100:7C3AED&text=MOUNEESH%20KANDHASAMY&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20DEVELOPER%20%E2%80%A2%20REACT.JS%20%E2%80%A2%20TYPESCRIPT%20%E2%80%A2%20REDUX%20TOOLKIT&descAlignY=60&descSize=15&animation=fadeIn"
     width="100%"
+    alt="Mouneesh Kandhasamy — Frontend Developer"
   />
 </p>
 
@@ -142,8 +143,9 @@ My degree is in Microbiology, but my professional direction is now firmly focuse
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0c4a6e,40:172554,70:0f172a,100:020617&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:7C3AED,25:4F46E5,50:2563EB,75:0EA5E9,100:06B6D4&animation=twinkling"
     width="100%"
+    alt=""
   />
 </p>
 
