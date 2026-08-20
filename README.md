@@ -72,27 +72,47 @@ My degree is in Microbiology, but my professional direction is now firmly focuse
 
 <table>
 <tr>
-<td width="50%" align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MouneeshK890-ce&theme=tokyonight"
-  width="100%"
-  alt="GitHub Statistics"
-/>
+<td align="center" width="33%">
+
+<h1>58</h1>
+
+<b>COMMITS</b>
+
+<br>
+
+<sub>GitHub activity</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<h1>07</h1>
+
+<b>PUBLIC REPOS</b>
+
+<br>
+
+<sub>Projects & experiments</sub>
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="33%">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MouneeshK890-ce&theme=tokyonight"
-  width="100%"
-  alt="Repositories by Language"
-/>
+<h1>02</h1>
+
+<b>CORE LANGUAGES</b>
+
+<br>
+
+<sub>JavaScript · TypeScript</sub>
 
 </td>
+
 </tr>
 </table>
+
+<br>
 
 <br>
 
