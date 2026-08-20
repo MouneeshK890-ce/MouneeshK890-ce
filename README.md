@@ -65,20 +65,22 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
 
 ## THE JOURNEY
 
- <p align="center">
+<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/MouneeshK890-ce/MouneeshK890-ce/output/github-contribution-grid-snake-dark.svg"
     />
-
     <img
       src="https://raw.githubusercontent.com/MouneeshK890-ce/MouneeshK890-ce/output/github-contribution-grid-snake.svg"
       width="100%"
       alt="GitHub Contribution Journey"
     />
   </picture>
-  <sub>Every Commit Leaves a Trace</sub>
+</p>
+
+<p align="center">
+  <sub><i>EVERY COMMIT LEAVES A TRACE</i></sub>
 </p>
 
 ---
