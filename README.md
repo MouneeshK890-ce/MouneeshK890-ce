@@ -46,12 +46,12 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
 
 📚 Currently improving my skills in **Next.js, Node.js and Express.js basics, and best practices**  
 
-# 💻 Tech Stack:
+# Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,vite,git,github,postman,npm,firebase&perline=7" />
 </p>
 
-## ◈ 06 — EDUCATION
+## EDUCATION
 
 ### 🎓 Bachelor of Science — Microbiology
 
@@ -62,7 +62,7 @@ My degree is in Microbiology, but my professional direction is now firmly focuse
 
 ---
 
-## ◈ 07 — GITHUB COMMAND CENTER
+##  GITHUB COMMAND CENTER
 
 <p align="center">
   <sub>ACTIVITY · TECHNOLOGIES · CONTRIBUTIONS</sub>
@@ -106,7 +106,7 @@ My degree is in Microbiology, but my professional direction is now firmly focuse
 ---
 
 
-## ◈ 10 — CONTRIBUTION JOURNEY
+## CONTRIBUTION JOURNEY
 
 <p align="center">
   <img
@@ -118,7 +118,7 @@ My degree is in Microbiology, but my professional direction is now firmly focuse
 
 ---
 
-## ◈ 13 — LET'S CONNECT
+## LET'S CONNECT
 
 <p align="center">
 
