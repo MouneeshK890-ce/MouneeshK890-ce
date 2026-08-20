@@ -98,16 +98,6 @@ My degree is in Microbiology, but my professional direction is now firmly focuse
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MouneeshK890-ce&theme=tokyonight"
-    width="55%"
-    alt="Most Used Commit Languages"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=MouneeshK890-ce&bg_color=0B1120&color=CBD5E1&line=38BDF8&point=A78BFA&area=true&hide_border=true&custom_title=MOUNEESH%20%E2%80%94%20CONTRIBUTION%20ACTIVITY"
     width="100%"
     alt="GitHub Contribution Activity"
