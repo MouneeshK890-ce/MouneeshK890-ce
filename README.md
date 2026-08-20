@@ -55,11 +55,37 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,vite,git,github,postman,npm,firebase&perline=7" />
 </p>
 
-[![Mouneesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MouneeshK890-ce&bg_color=000000&color=f5f5f5&line=71e633&point=ffffff&area=true&hide_border=true)](https://github.com/MouneeshK890-ce/github-readme-activity-graph)
+## ◈ 06 — EDUCATION
 
+### 🎓 Bachelor of Science — Microbiology
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+**Erode Arts and Science College, Tamil Nadu**  
+`2021 — 2024`
+
+My degree is in Microbiology, but my professional direction is now firmly focused on **Frontend Engineering** through hands-on software development.
+
+---
+
+## ◈ 07 — GITHUB COMMAND CENTER
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MouneeshK890-ce&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0B1120&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1&ring_color=38BDF8"
+    height="185"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MouneeshK890-ce&hide_border=true&theme=tokyonight&background=0B1120&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8"
+    height="185"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouneeshK890-ce&layout=compact&hide_border=true&theme=tokyonight&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1"
+  />
+</p>
+
+---
 
 
 ## ◈ 10 — CONTRIBUTION JOURNEY
