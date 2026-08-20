@@ -72,19 +72,12 @@ My degree is in Microbiology, but my professional direction is now firmly focuse
   <img
     src="https://github-readme-stats.vercel.app/api?username=MouneeshK890-ce&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0B1120&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1"
     height="185"
-    alt="Mouneesh GitHub Stats"
+    alt="Mouneesh GitHub Statistics"
   />
 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MouneeshK890-ce&hide_border=true&theme=tokyonight&background=0B1120&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8"
-    height="185"
-    alt="Mouneesh GitHub Streak"
-  />
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouneeshK890-ce&layout=compact&hide_border=true&theme=tokyonight&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1"
+    height="185"
     alt="Mouneesh Top Languages"
   />
 </p>
