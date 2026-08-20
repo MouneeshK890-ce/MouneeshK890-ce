@@ -56,11 +56,27 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
 
 ##  GITHUB COMMAND CENTER
 
+## ◈ 07 — GITHUB COMMAND CENTER
+
 <p align="center">
   <img
-    src="[https://github-readme-activity-graph.vercel.app/graph?username=MouneeshK890-ce&bg_color=0B1120&color=CBD5E1&line=A78BFA&point=38BDF8&area=true&hide_border=true&custom_title=MOUNEESH%20%E2%80%94%20CONTRIBUTION%20ACTIVITY](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MouneeshK890-ce&theme=tokyonight&utm_source=chatgpt.com)"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MouneeshK890-ce&theme=tokyonight"
     width="100%"
-    alt="Mouneesh contribution activity"
+    alt="Mouneesh GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MouneeshK890-ce&theme=tokyonight"
+    height="180"
+    alt="Repositories by language"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MouneeshK890-ce&theme=tokyonight"
+    height="180"
+    alt="Most used commit languages"
   />
 </p>
 ---
