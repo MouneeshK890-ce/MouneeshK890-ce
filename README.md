@@ -34,3 +34,16 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+## ◈ 10 — CONTRIBUTION JOURNEY
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/MouneeshK890-ce/MouneeshK890-ce/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake"
+    width="100%"
+  />
+</p>
+
+---
