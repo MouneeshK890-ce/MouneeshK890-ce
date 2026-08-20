@@ -70,15 +70,23 @@ My degree is in Microbiology, but my professional direction is now firmly focuse
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MouneeshK890-ce&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0B1120&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1"
-    height="185"
-    alt="Mouneesh GitHub Statistics"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MouneeshK890-ce&theme=tokyonight"
+    width="100%"
+    alt="Mouneesh GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MouneeshK890-ce&theme=tokyonight"
+    height="180"
+    alt="Repositories by language"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouneeshK890-ce&layout=compact&hide_border=true&theme=tokyonight&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1"
-    height="185"
-    alt="Mouneesh Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MouneeshK890-ce&theme=tokyonight"
+    height="180"
+    alt="Most used commit languages"
   />
 </p>
 
