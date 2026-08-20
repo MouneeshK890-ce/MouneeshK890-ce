@@ -46,10 +46,6 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
 
 📚 Currently improving my skills in **Next.js, Node.js and Express.js basics, and best practices**  
 
-
-## 🌐 Social Links:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mouneesh-kandhasamy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mouneesh.kandhasamy@gmail.com) 
-
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,vite,git,github,postman,npm,firebase&perline=7" />
