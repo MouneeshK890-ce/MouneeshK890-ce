@@ -51,76 +51,16 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,vite,git,github,postman,npm,firebase&perline=7" />
 </p>
 
-## EDUCATION
-
-### 🎓 Bachelor of Science — Microbiology
-
-**Erode Arts and Science College, Tamil Nadu**  
-`2021 — 2024`
-
-My degree is in Microbiology, but my professional direction is now firmly focused on **Frontend Engineering** through hands-on software development.
 
 ---
 
 ##  GITHUB COMMAND CENTER
 
 <p align="center">
-  <sub>ACTIVITY · TECHNOLOGIES · CONTRIBUTIONS</sub>
-</p>
-
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-<h1>58</h1>
-
-<b>COMMITS</b>
-
-<br>
-
-<sub>GitHub activity</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-<h1>07</h1>
-
-<b>PUBLIC REPOS</b>
-
-<br>
-
-<sub>Projects & experiments</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-<h1>02</h1>
-
-<b>CORE LANGUAGES</b>
-
-<br>
-
-<sub>JavaScript · TypeScript</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<br>
-
-<p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MouneeshK890-ce&bg_color=0B1120&color=CBD5E1&line=38BDF8&point=A78BFA&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL&height=250"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MouneeshK890-ce&bg_color=0B1120&color=CBD5E1&line=A78BFA&point=38BDF8&area=true&hide_border=true&custom_title=MOUNEESH%20%E2%80%94%20CONTRIBUTION%20ACTIVITY"
     width="100%"
-    alt="GitHub Contribution Activity"
+    alt="Mouneesh contribution activity"
   />
 </p>
 ---
@@ -136,6 +76,15 @@ My degree is in Microbiology, but my professional direction is now firmly focuse
   />
 </p>
 
+---
+## EDUCATION
+
+### 🎓 Bachelor of Science — Microbiology
+
+**Erode Arts and Science College, Tamil Nadu**  
+`2021 — 2024`
+
+My degree is in Microbiology, but my professional direction is now firmly focused on **Frontend Engineering** through hands-on software development.
 ---
 
 ## LET'S CONNECT
