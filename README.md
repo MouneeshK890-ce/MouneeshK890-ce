@@ -58,7 +58,7 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MouneeshK890-ce&bg_color=0B1120&color=CBD5E1&line=A78BFA&point=38BDF8&area=true&hide_border=true&custom_title=MOUNEESH%20%E2%80%94%20CONTRIBUTION%20ACTIVITY"
+    src="[https://github-readme-activity-graph.vercel.app/graph?username=MouneeshK890-ce&bg_color=0B1120&color=CBD5E1&line=A78BFA&point=38BDF8&area=true&hide_border=true&custom_title=MOUNEESH%20%E2%80%94%20CONTRIBUTION%20ACTIVITY](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MouneeshK890-ce&theme=tokyonight&utm_source=chatgpt.com)"
     width="100%"
     alt="Mouneesh contribution activity"
   />
