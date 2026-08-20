@@ -80,12 +80,11 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
 ---
 ## EDUCATION
 
-### 🎓 Bachelor of Science — Microbiology
-
 **Erode Arts and Science College, Tamil Nadu**  
 `2021 — 2024`
 
 My degree is in Microbiology, but my professional direction is now firmly focused on **Frontend Engineering** through hands-on software development.
+
 ---
 
 ## LET'S CONNECT
