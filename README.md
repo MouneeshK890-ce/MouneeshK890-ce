@@ -69,28 +69,42 @@ My degree is in Microbiology, but my professional direction is now firmly focuse
 ## ◈ 07 — GITHUB COMMAND CENTER
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MouneeshK890-ce&theme=tokyonight"
-    width="49%"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MouneeshK890-ce&theme=tokyonight"
-    width="49%"
-    alt="Repositories by Language"
-  />
+  <sub>ACTIVITY · TECHNOLOGIES · CONTRIBUTIONS</sub>
 </p>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MouneeshK890-ce&theme=tokyonight"
+  width="100%"
+  alt="GitHub Statistics"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MouneeshK890-ce&theme=tokyonight"
+  width="100%"
+  alt="Repositories by Language"
+/>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MouneeshK890-ce&theme=tokyonight"
-    width="49%"
+    width="55%"
     alt="Most Used Commit Languages"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MouneeshK890-ce&theme=tokyonight"
-    width="49%"
-    alt="GitHub Activity Statistics"
   />
 </p>
 
