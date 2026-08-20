@@ -98,7 +98,7 @@ My degree is in Microbiology, but my professional direction is now firmly focuse
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MouneeshK890-ce&bg_color=0B1120&color=CBD5E1&line=38BDF8&point=A78BFA&area=true&hide_border=true&custom_title=MOUNEESH%20%E2%80%94%20CONTRIBUTION%20ACTIVITY"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MouneeshK890-ce&bg_color=0B1120&color=CBD5E1&line=38BDF8&point=A78BFA&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL&height=250"
     width="100%"
     alt="GitHub Contribution Activity"
   />
