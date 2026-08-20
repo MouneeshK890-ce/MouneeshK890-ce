@@ -9,20 +9,39 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Frontend+Developer+%7C+React.js+%2B+TypeScript;Building+real+applications%2C+not+just+tutorials;Reusable+Components+%7C+State+Management+%7C+API+Integration;From+Idea+%E2%86%92+Architecture+%E2%86%92+Deployment;Open+to+Frontend+Developer+Opportunities+%F0%9F%9A%80" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mouneesh-kandhasamy">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
-  </a>
-  <a href="https://mouneesh-portfolio.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" />
-  </a>
-  <a href="https://github.com/MouneeshK890-ce">
-    <img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-  <a href="mailto:mouneesh.kandhasamy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=F87171" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td>
+<a href="https://www.linkedin.com/in/mouneesh-kandhasamy">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
+</a>
+</td>
+
+<td width="12"></td>
+
+<td>
+<a href="https://mouneesh-portfolio.web.app">
+<img src="https://img.shields.io/badge/Portfolio-Explore-0891B2?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" />
+</a>
+</td>
+
+<td width="12"></td>
+
+<td>
+<a href="https://github.com/MouneeshK890-ce">
+<img src="https://img.shields.io/badge/GitHub-Profile-334155?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+</td>
+
+<td width="12"></td>
+
+<td>
+<a href="mailto:mouneesh.kandhasamy@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-BE123C?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+</a>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MouneeshK890-ce&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" />
