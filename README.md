@@ -57,7 +57,7 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
 
 ---
 
-##  GITHUB COMMAND CENTER
+##  ACTIVITY LOG
 
 <p align="center">
   <img
@@ -70,7 +70,7 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
 ---
 
 
-## CONTRIBUTION JOURNEY
+## THE JOURNEY
 
 <p align="center">
   <img
@@ -78,6 +78,7 @@ Here is my **[Portfolio](https://mouneesh-portfolio.web.app)**
     alt="GitHub contribution snake"
     width="100%"
   />
+  <sub>Every Commit Leaves a Trace</sub>
 </p>
 
 ---
